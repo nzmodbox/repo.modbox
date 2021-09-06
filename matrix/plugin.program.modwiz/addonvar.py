@@ -6,7 +6,7 @@ from datetime import datetime
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'http://dabutcher.org/19/test.xml'
+buildfile = 'https://www.dropbox.com/s/k15hb9zio4yci67/Build.xml?dl=0'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://dabutcher.org/19/notify19.txt'
