@@ -6,7 +6,7 @@ from datetime import datetime
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'http://modbox.epizy.com/kodi/Builds.xml'
+buildfile = 'https://modbox.000webhostapp.com/19/Builds.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'http://modbox.epizy.com/kodi/notify19.txt'
