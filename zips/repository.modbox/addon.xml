@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.modbox" name="[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard Repository" version="2.0" provider-name="drinfernoo">
+<addon id="repository.modbox" name="[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard Repository" version="2.1" provider-name="drinfernoo">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard Repository">
         <dir minversion="18.0" maxversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/nzmodbox/repo.modbox/master/leia/zips/addons.xml</info>
