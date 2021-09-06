@@ -6,10 +6,10 @@ from datetime import datetime
 addon_id = xbmcaddon.Addon().getAddonInfo('id')
 
 '''#####-----Build File-----#####'''
-buildfile = 'https://www.dropbox.com/s/k15hb9zio4yci67/Build.xml?dl=0'
+buildfile = 'https://www.dropbox.com/s/k15hb9zio4yci67/Builds.xml'
 
 '''#####-----Notifications File-----#####'''
-notify_url  = 'http://dabutcher.org/19/notify19.txt'
+notify_url  = 'https://www.dropbox.com/s/6bj97ei51s5l6q2/notify19.txt'
 
 '''#####-----Excludes-----#####'''
 EXCLUDES  = [addon_id, 'packages', 'Addons33.db', 'kodi.log', 'script.module.certifi', 'script.module.chardet', 'script.module.idna', 'script.module.requests', 'script.module.urllib3']
