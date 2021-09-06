@@ -9,7 +9,7 @@ addon_id = xbmcaddon.Addon().getAddonInfo('id')
 buildfile = 'https://modbox.000webhostapp.com/19/Builds.xml'
 
 '''#####-----Notifications File-----#####'''
-notify_url  = 'http://modbox.epizy.com/kodi/notify19.txt'
+notify_url  = 'https://modbox.000webhostapp.com/19/notify19.txt'
 
 '''#####-----Excludes-----#####'''
 EXCLUDES  = [addon_id, 'packages', 'Addons33.db', 'kodi.log', 'script.module.certifi', 'script.module.chardet', 'script.module.idna', 'script.module.requests', 'script.module.urllib3']
