@@ -1,7 +1,6 @@
-# Modbox Repository
+# OpenWizard Repository
 
-The official home of the Modbox repo
+The official home of OpenWizard.
 
-This is a fork of the Openwizard
 Kodi File Manager Source:
 https://a4k-openproject.github.io/repository.openwizard/
