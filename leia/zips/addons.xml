@@ -140,7 +140,7 @@
     </extension>
 </addon>
 
-<addon id="repository.modbox" name="[COLOR limegreen][B]Open[/B][/COLOR]Wizard Repository" version="2.0" provider-name="drinfernoo">
+<addon id="repository.modbox" name="[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard Repository" version="2.0" provider-name="NZ Modbox">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard Repository">
         <dir minversion="18.0" maxversion="18.9.0">
             <info compressed="false">https://raw.githubusercontent.com/nzmodbox/repo.modbox/master/leia/zips/addons.xml</info>
@@ -155,8 +155,8 @@
     </extension>
 
     <extension point="xbmc.addon.metadata">
-        <summary>[COLOR limegreen][B]Open[/B][/COLOR]Wizard</summary>
-        <description>The official home of [COLOR limegreen][B]Open[/B][/COLOR]Wizard.</description>
+        <summary>[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard</summary>
+        <description>The official home of [COLOR limegreen][B]Modbox[/B][/COLOR]Wizard.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
