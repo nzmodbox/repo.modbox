@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Modbox[/B][/COLOR]Wizard'
 BUILDERNAME = 'ModboxWizard'
 EXCLUDES = [ADDON_ID, 'repository.modbox']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://github.com/nzmodbox/nzmodbox.com/blob/master/builds.txt'
+BUILDFILE = 'https://www.dropbox.com/s/z798j4zo7mj77c6/builds.txt?dl=0'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
